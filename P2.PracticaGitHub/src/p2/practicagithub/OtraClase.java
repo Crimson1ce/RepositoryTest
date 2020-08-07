@@ -7,9 +7,10 @@ package p2.practicagithub;
 
 /**
  *
- * @author ENNER
+ * @author Josué
  */
-public class Miclase {
-    private String tengoMiedo;
-    public String yoTambién;
+public class OtraClase {
+    
+    //No tego idea
+    
 }
