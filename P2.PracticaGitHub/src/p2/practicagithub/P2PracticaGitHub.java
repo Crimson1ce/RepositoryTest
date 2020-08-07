@@ -17,8 +17,6 @@ public class P2PracticaGitHub {
     public static void main(String[] args) {
         System.out.println("Hello ladies and gentlemen.");
         System.out.println("No se qué voy a hacer mañana ;-;");
-        System.out.println("Tengo miedo\n"
-                + "tengo miedo");
     }
     
 }
